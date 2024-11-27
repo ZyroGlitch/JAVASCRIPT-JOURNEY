@@ -1,0 +1,8 @@
+.button {
+  width: 200px;
+  height: 50px;
+  background: purple;
+  color: white;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
